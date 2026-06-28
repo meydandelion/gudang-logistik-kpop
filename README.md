@@ -20,11 +20,11 @@ KMerch Inventory adalah aplikasi gudang logistik merchandise K-Pop berbasis Java
 - JCalendar
 
 ## Database
-Import file database yang tersedia pada folder `database/kmerch_inventory.sql`.
+Import file database yang tersedia pada folder `database/kmerch_inventori.sql`.
 
 ## Cara Menjalankan
 1. Buka project menggunakan Apache NetBeans.
 2. Jalankan XAMPP dan aktifkan MySQL.
-3. Import database `kmerch_inventory.sql`.
-4. Sesuaikan koneksi database pada file `Koneksi.java`.
+3. Import database `kmerch_inventori.sql`.
+4. Sesuaikan koneksi database pada file `Koneksi.java` 'atau view.FormMainUtama.java' .
 5. Run project.
