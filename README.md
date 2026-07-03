@@ -26,5 +26,5 @@ Import file database yang tersedia pada folder `database/kmerch_inventori.sql`.
 1. Buka project menggunakan Apache NetBeans.
 2. Jalankan XAMPP dan aktifkan MySQL.
 3. Import database `kmerch_inventori.sql`.
-4. Sesuaikan koneksi database pada file `Koneksi.java` 'atau view.FormMainUtama.java' .
+4. Sesuaikan koneksi database pada file `FormMainUtama.java`  .
 5. Run project.
